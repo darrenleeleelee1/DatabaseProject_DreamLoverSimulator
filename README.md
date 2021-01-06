@@ -2,6 +2,8 @@
 The code was written by [Chein Chang](https://github.com/pchien0415), [Darren Lee](https://github.com/darrenleeleelee1), [Jamie Wang](https://github.com/jamie212) and [Yoyo Zheng](https://github.com/yo-yo97)
 
 [All resource](https://drive.google.com/drive/folders/1Vfgjyr20ouP5jiMgdaVYHHTO3tOwy34W?usp=sharing) 
+
+[Meeting Record](https://hackmd.io/@qVNXANOET1y8EErBT3zrkA/ByY9CMyBw)
 ## Database
 Using Mysql 8.0, WorkBench
 1. Unzip mix.7z
