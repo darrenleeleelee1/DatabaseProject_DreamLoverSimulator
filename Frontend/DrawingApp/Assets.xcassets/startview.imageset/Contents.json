@@ -1,0 +1,33 @@
+{
+  "images" : [
+    {
+      "filename" : "1233ACD0-C26C-4090-BEAA-D4227F4EF260.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1233ACD0-C26C-4090-BEAA-D4227F4EF260-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "1233ACD0-C26C-4090-BEAA-D4227F4EF260-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "1233ACD0-C26C-4090-BEAA-D4227F4EF260-3.jpg",
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "1233ACD0-C26C-4090-BEAA-D4227F4EF260-4.jpg",
+      "idiom" : "ipad",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
